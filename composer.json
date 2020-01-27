@@ -1,0 +1,14 @@
+{
+  "name": "alleyinteractive/options-importer",
+  "type": "wordpress-plugin",
+  "keywords": [
+    "wordpress",
+    "plugin"
+  ],
+  "authors": [
+    {
+      "name": "Alley Interactive",
+      "email": "noreply@alleyinteractive.com"
+    }
+  ]
+}
